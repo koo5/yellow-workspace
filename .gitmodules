@@ -1,0 +1,9 @@
+[submodule "yellow-module-sdk"]
+	path = yellow-module-sdk
+	url = https://github.com/koo5/yellow-module-sdk
+[submodule "yellow-dev"]
+	path = yellow-dev
+	url = https://github.com/koo5/yellow-dev
+[submodule "yellow-messages2"]
+	path = yellow-messages2
+	url = https://github.com/koo5/yellow-messages2
